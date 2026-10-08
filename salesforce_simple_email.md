@@ -11,7 +11,7 @@ Copy and paste the following Apex code directly into the **Execute Anonymous Win
 Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage();
 
 // 2. Set the target recipient email address
-String[] toAddresses = new String[] {'dhanyath91@gmail.com'};
+String[] toAddresses = new String[] {'naik.girish733@gmail.com'};
 email.setToAddresses(toAddresses);
 
 // 3. Set the subject and body of the email
